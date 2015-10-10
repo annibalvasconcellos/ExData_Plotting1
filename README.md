@@ -95,12 +95,12 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of plot1](plot1.png) 
+![plot of plot1](figure/plot1.png) 
 
 
 ### Plot 2
 
-![plot of plot2](plot2.png) 
+![plot of plot2](figure/plot2.png) 
 
 Please note that weekdays names are written in Portuguese
 (**Quinta = Thursday, Sexta = Friday, Sábado = Saturday**)
@@ -108,10 +108,10 @@ Please note that weekdays names are written in Portuguese
 
 ### Plot 3
 
-![plot of plot3](plot3.png) 
+![plot of plot3](figure/plot3.png) 
 
 
 ### Plot 4
 
-![plot of plot4](plot4.png) 
+![plot of plot4](figure/plot4.png) 
 
