@@ -102,16 +102,16 @@ The four plots that you will need to construct are shown below.
 
 ![plot of plot2](plot2.png) 
 
-Please note that weekdays names are written in Portuguese:
+Please note that weekdays names are written in Portuguese
 (Quinta = Thursday, Sexta = Friday, Sábado = Saturday)
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of plot3](plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of plot4](plot4.png) 
 
