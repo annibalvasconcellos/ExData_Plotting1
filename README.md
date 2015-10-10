@@ -66,13 +66,13 @@ reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
 First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
+[https://github.com/annibalvasconcellos/ExData_Plotting1](https://github.com/annibalvasconcellos/ExData_Plotting1)
 
 
 For each plot you should
 
 * Construct the plot and save it to a PNG file with a width of 480
-pixels and a height of 480 pixels.
+pixels and a height of 480 pixels. For the plot4 file, I decided to create a higher resolution PNG file (640 x 640), to accomodate multiple small graphs
 
 * Name each of the plot files as `plot1.png`, `plot2.png`, etc.
 
@@ -80,7 +80,7 @@ pixels and a height of 480 pixels.
 constructs the corresponding plot, i.e. code in `plot1.R` constructs
 the `plot1.png` plot. Your code file **should include code for reading
 the data** so that the plot can be fully reproduced. You should also
-include the code that creates the PNG file.
+include the code that creates the PNG file. Input data set shoul be found in **"C:/R_Programming/Exploratory"** directory
 
 * Add the PNG file and R code file to your git repository
 
@@ -95,20 +95,23 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of plot1](plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of plot2](plot2.png) 
+
+Please note that weekdays names are written in Portuguese
+(**Quinta = Thursday, Sexta = Friday, Sábado = Saturday**)
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of plot3](plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of plot4](plot4.png) 
 
